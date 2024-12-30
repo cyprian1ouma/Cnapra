@@ -1,3 +1,6 @@
+body{
+  background-color: white;
+}
 .nav-brand {
     width: 80px;  
     height: 80px; 
@@ -116,3 +119,37 @@
    transition: cubic-bezier(0.215, 0.610, 0.355, 1);
    transform-origin: 10%;
   }
+
+  /* donate page */
+  .donate-card {
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    border: none;
+}
+
+.donate-card .card-header {
+    background-color: #6a11cb;
+    color: white;
+    font-size: 1.5rem;
+}
+
+.btn-donate {
+    background: #6a11cb;
+    color: white;
+    border: none;
+    transition: background 0.3s;
+}
+
+.btn-donate:hover {
+    background: #2575fc;
+}
+.donationheader {
+  color: white;
+  padding: 30px 20px;
+  text-align: center;
+}
+
+#donationcontainer{
+  /* background-image:url() */
+  background-color: aliceblue;
+}
+  

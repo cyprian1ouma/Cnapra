@@ -1,5 +1,5 @@
 @font-face {
-	font-family: 'ElegantIcons';
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	src:url('../fonts/ElegantIcons.eot');
 	src:url('../fonts/ElegantIcons.eot?#iefix') format('embedded-opentype'),
 		url('../fonts/ElegantIcons.woff') format('woff'),
@@ -11,7 +11,7 @@
 
 /* Use the following CSS code if you want to use data attributes for inserting your icons */
 [data-icon]:before {
-	font-family: 'ElegantIcons';
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	content: attr(data-icon);
 	speak: none;
 	font-weight: normal;
