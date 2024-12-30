@@ -152,4 +152,11 @@ body{
   /* background-image:url() */
   background-color: aliceblue;
 }
+#whatsaapimages{
+  height: 50px;
+  width: 50px;
+  border-radius: 10px;
+  margin: 5px;
+}
+
   
